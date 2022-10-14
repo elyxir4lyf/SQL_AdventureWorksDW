@@ -24,4 +24,4 @@ The details to connect to AdventureWorksDW are given below:
 ## Database Schema
 The schema for this database is visualized below:
 
-![alt text](schema.jpg)
+![alt text](schema.png)
